@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @lehminhs
+- 👀 I’m interested in anything Math and Computer Science related...
+- 🌱 I’m currently learning front-end and back-end development ...
+- 📫 You can reach me at lehminhs@gmail.com...
+
+<!---
+lehminhs/lehminhs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
